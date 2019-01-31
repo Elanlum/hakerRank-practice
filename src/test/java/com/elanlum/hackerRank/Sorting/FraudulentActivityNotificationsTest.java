@@ -1,4 +1,4 @@
-package hackerRank.Sorting;
+package com.elanlum.hackerRank.Sorting;
 
 import static org.junit.jupiter.api.Assertions.*;
 

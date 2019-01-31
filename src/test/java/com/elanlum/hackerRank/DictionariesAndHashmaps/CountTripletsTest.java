@@ -1,4 +1,4 @@
-package hackerRank.DictionariesAndHashmaps;
+package com.elanlum.hackerRank.DictionariesAndHashmaps;
 
 import static org.junit.Assert.assertEquals;
 

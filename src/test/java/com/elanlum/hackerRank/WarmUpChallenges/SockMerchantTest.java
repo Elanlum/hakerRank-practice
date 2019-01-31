@@ -1,4 +1,4 @@
-package hackerRank.WarmUpChallenges;
+package com.elanlum.hackerRank.WarmUpChallenges;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
