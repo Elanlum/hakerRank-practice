@@ -1,4 +1,4 @@
-package hackerRank.DictionariesAndHashmaps;
+package com.elanlum.hackerRank.DictionariesAndHashmaps;
 
 import java.util.ArrayList;
 import java.util.HashMap;

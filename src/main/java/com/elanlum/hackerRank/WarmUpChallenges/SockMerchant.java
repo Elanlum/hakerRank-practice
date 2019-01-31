@@ -1,4 +1,4 @@
-package hackerRank.WarmUpChallenges;
+package com.elanlum.hackerRank.WarmUpChallenges;
 
 import java.util.HashSet;
 import java.util.Set;

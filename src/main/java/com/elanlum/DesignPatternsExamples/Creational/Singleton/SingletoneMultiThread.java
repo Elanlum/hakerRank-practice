@@ -1,4 +1,4 @@
-package com.elanlum.DesignPatternsExamples.Singleton;
+package com.elanlum.DesignPatternsExamples.Creational.Singleton;
 
 public class SingletoneMultiThread {
 

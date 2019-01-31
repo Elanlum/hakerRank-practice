@@ -1,4 +1,4 @@
-package com.elanlum.DesignPatternsExamples.Builder;
+package com.elanlum.DesignPatternsExamples.Creational.Builder;
 
 public class FirstBuilder extends Builder {
 

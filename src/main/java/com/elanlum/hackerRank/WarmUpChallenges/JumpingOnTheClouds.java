@@ -1,4 +1,4 @@
-package hackerRank.WarmUpChallenges;
+package com.elanlum.hackerRank.WarmUpChallenges;
 
 public class JumpingOnTheClouds {
 

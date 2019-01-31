@@ -1,4 +1,4 @@
-package com.elanlum.DesignPatternsExamples.AbstractFactory;
+package com.elanlum.DesignPatternsExamples.Creational.AbstractFactory;
 
 public class UaAbstractCarFactory implements AbstractCarFactory {
 

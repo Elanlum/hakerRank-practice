@@ -1,4 +1,4 @@
-package hackerRank.Arrays;
+package com.elanlum.hackerRank.Arrays;
 
 public class LeftRotation {
 

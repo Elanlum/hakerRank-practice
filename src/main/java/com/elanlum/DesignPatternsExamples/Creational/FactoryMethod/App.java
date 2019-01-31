@@ -1,4 +1,4 @@
-package com.elanlum.DesignPatternsExamples.FactoryMethod;
+package com.elanlum.DesignPatternsExamples.Creational.FactoryMethod;
 
 public class App {
 

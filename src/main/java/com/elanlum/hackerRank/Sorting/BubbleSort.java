@@ -1,4 +1,4 @@
-package hackerRank.Sorting;
+package com.elanlum.hackerRank.Sorting;
 
 public class BubbleSort {
 
