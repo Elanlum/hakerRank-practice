@@ -1,4 +1,4 @@
-package com.elanlum.Algorythms;
+package com.elanlum.Algorithms;
 
 import java.util.Arrays;
 

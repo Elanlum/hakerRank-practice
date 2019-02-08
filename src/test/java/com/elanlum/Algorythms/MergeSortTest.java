@@ -2,6 +2,7 @@ package com.elanlum.Algorythms;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import com.elanlum.Algorithms.MergeSort;
 import org.junit.jupiter.api.Test;
 
 class MergeSortTest {
