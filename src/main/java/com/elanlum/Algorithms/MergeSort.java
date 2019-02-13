@@ -26,8 +26,9 @@ public class MergeSort {
     int[] result = new int[len];
     for (int i = 0; i < len; i++) {
       if (counter2 < length2 && counter1 < length1) {
-        if (arr_1[counter1] > arr_2[counter2]) result[i] = arr_2[counter2++];
-        else result[i] = arr_1[counter1++];
+        if (arr_1[counter1] > arr_2[counter2]) {
+          result[i] = arr_2[counter2++];
+        } else result[i] = arr_1[counter1++];
       } else if (counter2 < length2) {
         result[i] = arr_2[counter2++];
       } else {
