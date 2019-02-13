@@ -10,10 +10,10 @@ class QuickSortTest {
 
   @Test
   void sort() {
-    Integer[] arr = {9, 7, 6, 8, 2, 1, 3, 4, 5};
-    Integer[] result = {1, 2, 3, 4, 5, 6, 7, 8, 9};
-    new QuickSort().sort(arr, new IntComparator());
-    assertArrayEquals(result, result);
+    int[] arr = {9, 7, 6, 8, 2, 1, 3, 4, 5};
+    int[] result = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+    new QuickSort().sort(arr);
+    assertArrayEquals(arr, result);
   }
 }
 
